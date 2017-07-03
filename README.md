@@ -1,7 +1,7 @@
 # Arduino Keypad
 Arduino code for a simple matrix style keypad
 
-For complete hookup and tutorial see: http://adam-meyer.com/arduino/arduino-keypad/
+For complete hookup and tutorial see: http://adam-meyer.com/arduino/keypad
 
 The code is provided under the MIT license please use, edit, change, and share. 
 
