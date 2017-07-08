@@ -18,3 +18,5 @@ The included code examples require the Password and Keypad libraries. Both are i
 * On your Linux box: (home directory)/sketchbook/libraries  
 
 Libraries are available under the GPL license.
+
+For all my arduino articles: http://adam-meyer.com/arduino/
